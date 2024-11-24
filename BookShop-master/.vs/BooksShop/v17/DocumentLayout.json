@@ -1,0 +1,231 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop.Infrastructure\\Data\\Migrations\\20241124083141_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BooksShop.Infrastructure\\Data\\Migrations\\20241124083141_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93B23299-26D9-4EF0-AE7B-D8B9D9E51F19}|BooksShop\\BooksShop.csproj|c:\\users\\lenovo\\desktop\\bookshop (1)\\bookshop\\bookshop-master\\booksshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93B23299-26D9-4EF0-AE7B-D8B9D9E51F19}|BooksShop\\BooksShop.csproj|solutionrelative:booksshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93B23299-26D9-4EF0-AE7B-D8B9D9E51F19}|BooksShop\\BooksShop.csproj|c:\\users\\lenovo\\desktop\\bookshop (1)\\bookshop\\bookshop-master\\booksshop\\booksshop.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{93B23299-26D9-4EF0-AE7B-D8B9D9E51F19}|BooksShop\\BooksShop.csproj|solutionrelative:booksshop\\booksshop.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93B23299-26D9-4EF0-AE7B-D8B9D9E51F19}|BooksShop\\BooksShop.csproj|c:\\users\\lenovo\\desktop\\bookshop (1)\\bookshop\\bookshop-master\\booksshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{93B23299-26D9-4EF0-AE7B-D8B9D9E51F19}|BooksShop\\BooksShop.csproj|solutionrelative:booksshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDDE07EB-D08F-4366-B4ED-0531CFE88CD8}|BooksShop.Core\\BooksShop.Core.csproj|c:\\users\\lenovo\\desktop\\bookshop (1)\\bookshop\\bookshop-master\\booksshop.core\\viewmodels\\books\\bookindexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDDE07EB-D08F-4366-B4ED-0531CFE88CD8}|BooksShop.Core\\BooksShop.Core.csproj|solutionrelative:booksshop.core\\viewmodels\\books\\bookindexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93B23299-26D9-4EF0-AE7B-D8B9D9E51F19}|BooksShop\\BooksShop.csproj|c:\\users\\lenovo\\desktop\\bookshop (1)\\bookshop\\bookshop-master\\booksshop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{93B23299-26D9-4EF0-AE7B-D8B9D9E51F19}|BooksShop\\BooksShop.csproj|solutionrelative:booksshop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDDE07EB-D08F-4366-B4ED-0531CFE88CD8}|BooksShop.Core\\BooksShop.Core.csproj|c:\\users\\lenovo\\desktop\\bookshop (1)\\bookshop\\bookshop-master\\booksshop.core\\booksshop.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{BDDE07EB-D08F-4366-B4ED-0531CFE88CD8}|BooksShop.Core\\BooksShop.Core.csproj|solutionrelative:booksshop.core\\booksshop.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93B23299-26D9-4EF0-AE7B-D8B9D9E51F19}|BooksShop\\BooksShop.csproj|c:\\users\\lenovo\\desktop\\bookshop (1)\\bookshop\\bookshop-master\\booksshop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93B23299-26D9-4EF0-AE7B-D8B9D9E51F19}|BooksShop\\BooksShop.csproj|solutionrelative:booksshop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93B23299-26D9-4EF0-AE7B-D8B9D9E51F19}|BooksShop\\BooksShop.csproj|c:\\users\\lenovo\\desktop\\bookshop (1)\\bookshop\\bookshop-master\\booksshop\\stylecop.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{93B23299-26D9-4EF0-AE7B-D8B9D9E51F19}|BooksShop\\BooksShop.csproj|solutionrelative:booksshop\\stylecop.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDDE07EB-D08F-4366-B4ED-0531CFE88CD8}|BooksShop.Core\\BooksShop.Core.csproj|c:\\users\\lenovo\\desktop\\bookshop (1)\\bookshop\\bookshop-master\\booksshop.core\\stylecop1.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BDDE07EB-D08F-4366-B4ED-0531CFE88CD8}|BooksShop.Core\\BooksShop.Core.csproj|solutionrelative:booksshop.core\\stylecop1.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93B23299-26D9-4EF0-AE7B-D8B9D9E51F19}|BooksShop\\BooksShop.csproj|c:\\users\\lenovo\\desktop\\bookshop (1)\\bookshop\\bookshop-master\\booksshop\\areas\\administration\\controllers\\administrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93B23299-26D9-4EF0-AE7B-D8B9D9E51F19}|BooksShop\\BooksShop.csproj|solutionrelative:booksshop\\areas\\administration\\controllers\\administrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDDE07EB-D08F-4366-B4ED-0531CFE88CD8}|BooksShop.Core\\BooksShop.Core.csproj|c:\\users\\lenovo\\desktop\\bookshop (1)\\bookshop\\bookshop-master\\booksshop.core\\stylecop.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BDDE07EB-D08F-4366-B4ED-0531CFE88CD8}|BooksShop.Core\\BooksShop.Core.csproj|solutionrelative:booksshop.core\\stylecop.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A89829A0-9862-47B4-B2AE-E9344098443A}|BooksShop.Infrastructure\\BooksShop.Infrastructure.csproj|c:\\users\\lenovo\\desktop\\bookshop (1)\\bookshop\\bookshop-master\\booksshop.infrastructure\\booksshop.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A89829A0-9862-47B4-B2AE-E9344098443A}|BooksShop.Infrastructure\\BooksShop.Infrastructure.csproj|solutionrelative:booksshop.infrastructure\\booksshop.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20241124083141_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop.Infrastructure\\Data\\Migrations\\20241124083141_Initial.cs",
+              "RelativeDocumentMoniker": "BooksShop.Infrastructure\\Data\\Migrations\\20241124083141_Initial.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop.Infrastructure\\Data\\Migrations\\20241124083141_Initial.cs",
+              "RelativeToolTip": "BooksShop.Infrastructure\\Data\\Migrations\\20241124083141_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T08:31:41.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BooksShop",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\BooksShop.csproj",
+              "RelativeDocumentMoniker": "BooksShop\\BooksShop.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\BooksShop.csproj",
+              "RelativeToolTip": "BooksShop\\BooksShop.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-24T08:23:11.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BooksShop.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop.Infrastructure\\BooksShop.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "BooksShop.Infrastructure\\BooksShop.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop.Infrastructure\\BooksShop.Infrastructure.csproj",
+              "RelativeToolTip": "BooksShop.Infrastructure\\BooksShop.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-24T08:19:04.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "stylecop.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop.Core\\stylecop.json",
+              "RelativeDocumentMoniker": "BooksShop.Core\\stylecop.json",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop.Core\\stylecop.json",
+              "RelativeToolTip": "BooksShop.Core\\stylecop.json",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-24T08:19:05.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\Program.cs",
+              "RelativeDocumentMoniker": "BooksShop\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\Program.cs",
+              "RelativeToolTip": "BooksShop\\Program.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAAAF8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T08:19:05.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdministrationController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\Areas\\Administration\\Controllers\\AdministrationController.cs",
+              "RelativeDocumentMoniker": "BooksShop\\Areas\\Administration\\Controllers\\AdministrationController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\Areas\\Administration\\Controllers\\AdministrationController.cs",
+              "RelativeToolTip": "BooksShop\\Areas\\Administration\\Controllers\\AdministrationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T08:19:05.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "stylecop1.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop.Core\\stylecop1.json",
+              "RelativeDocumentMoniker": "BooksShop.Core\\stylecop1.json",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop.Core\\stylecop1.json",
+              "RelativeToolTip": "BooksShop.Core\\stylecop1.json",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-24T08:19:05.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "stylecop.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\stylecop.json",
+              "RelativeDocumentMoniker": "BooksShop\\stylecop.json",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\stylecop.json",
+              "RelativeToolTip": "BooksShop\\stylecop.json",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-24T08:19:05.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BooksShop\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BooksShop\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T08:19:05.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BooksShop.Core.csproj",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop.Core\\BooksShop.Core.csproj",
+              "RelativeDocumentMoniker": "BooksShop.Core\\BooksShop.Core.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop.Core\\BooksShop.Core.csproj",
+              "RelativeToolTip": "BooksShop.Core\\BooksShop.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-24T08:19:05.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BooksShop\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BooksShop\\Views\\Home\\Index.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T08:19:05.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookIndexViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop.Core\\ViewModels\\Books\\BookIndexViewModel.cs",
+              "RelativeDocumentMoniker": "BooksShop.Core\\ViewModels\\Books\\BookIndexViewModel.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop.Core\\ViewModels\\Books\\BookIndexViewModel.cs",
+              "RelativeToolTip": "BooksShop.Core\\ViewModels\\Books\\BookIndexViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T08:19:05.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\appsettings.json",
+              "RelativeDocumentMoniker": "BooksShop\\appsettings.json",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\appsettings.json",
+              "RelativeToolTip": "BooksShop\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-24T08:19:05.137Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
