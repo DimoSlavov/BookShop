@@ -1,0 +1,389 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BooksShop.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BooksShop.13jsmydh9m.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\wwwroot\\images\\74f5b0ec-5ea0-4fdf-80d0-604a9249b71d.png",
+      "PackagePath": "staticwebassets\\images\\74f5b0ec-5ea0-4fdf-80d0-604a9249b71d.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\wwwroot\\images\\books\\005f0140-65ad-4b24-8f05-b2d45f274f49.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\005f0140-65ad-4b24-8f05-b2d45f274f49.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\wwwroot\\images\\books\\0355b9fb-bf1b-4ae5-a3b9-a88ea551f1b5.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\0355b9fb-bf1b-4ae5-a3b9-a88ea551f1b5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\wwwroot\\images\\books\\04fe7e81-299e-4b26-b1fd-0e1a3149c9da.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\04fe7e81-299e-4b26-b1fd-0e1a3149c9da.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\wwwroot\\images\\books\\18c8a126-dfe6-4bad-9221-4ef1672cb3e5.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\18c8a126-dfe6-4bad-9221-4ef1672cb3e5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\wwwroot\\images\\books\\22ec6be5-99cc-4e1b-91b8-0459f964cfdf.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\22ec6be5-99cc-4e1b-91b8-0459f964cfdf.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\wwwroot\\images\\books\\27486390-9981-468b-93ad-c4cb1c8087ab.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\27486390-9981-468b-93ad-c4cb1c8087ab.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\wwwroot\\images\\books\\27cd64b2-01d7-4d33-bf31-ba2d9f5ef27a.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\27cd64b2-01d7-4d33-bf31-ba2d9f5ef27a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\wwwroot\\images\\books\\3c0e44e3-4cb5-4c12-845e-5179e4b82717.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\3c0e44e3-4cb5-4c12-845e-5179e4b82717.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\wwwroot\\images\\books\\3cc142ee-2ac0-4cee-8a63-d88d271d0c86.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\3cc142ee-2ac0-4cee-8a63-d88d271d0c86.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\wwwroot\\images\\books\\3f3d222a-2401-437c-81b0-7db157cef7af.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\3f3d222a-2401-437c-81b0-7db157cef7af.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\wwwroot\\images\\books\\3f569900-cc2e-4f9d-ac96-54cddcd7e4e6.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\3f569900-cc2e-4f9d-ac96-54cddcd7e4e6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\wwwroot\\images\\books\\3faa928e-f41d-4710-a469-b8b357eef1ba.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\3faa928e-f41d-4710-a469-b8b357eef1ba.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\wwwroot\\images\\books\\6dff32cc-dcbc-425a-8406-6463b36678df.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\6dff32cc-dcbc-425a-8406-6463b36678df.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\wwwroot\\images\\books\\73174e87-d6b4-4604-9712-7330ab87ed72.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\73174e87-d6b4-4604-9712-7330ab87ed72.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\wwwroot\\images\\books\\86960c70-fd36-4ed1-94f9-3ecb8c47aa5a.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\86960c70-fd36-4ed1-94f9-3ecb8c47aa5a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\wwwroot\\images\\books\\875ef8c0-31d5-476f-bd2c-0b1bd35aea0f.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\875ef8c0-31d5-476f-bd2c-0b1bd35aea0f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\wwwroot\\images\\books\\8b457390-2df6-4f02-9a0b-6b3fe4890d85.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\8b457390-2df6-4f02-9a0b-6b3fe4890d85.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\wwwroot\\images\\books\\90e0e436-1c66-41ad-88e6-e1a153404144.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\90e0e436-1c66-41ad-88e6-e1a153404144.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\wwwroot\\images\\books\\aa23bf8b-685c-430d-a256-7b684dd1cb90.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\aa23bf8b-685c-430d-a256-7b684dd1cb90.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\wwwroot\\images\\books\\b449a8b1-84f1-44dd-8c6d-e965b6efa90b.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\b449a8b1-84f1-44dd-8c6d-e965b6efa90b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\wwwroot\\images\\books\\b8422c70-aebe-4333-8908-0a59b53e9ab3.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\b8422c70-aebe-4333-8908-0a59b53e9ab3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\wwwroot\\images\\books\\b907a2b2-c4f3-4233-aef4-a0c46098a6df.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\b907a2b2-c4f3-4233-aef4-a0c46098a6df.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\wwwroot\\images\\books\\b977e8e1-30eb-44a8-b70b-88a87fb7bbe5.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\b977e8e1-30eb-44a8-b70b-88a87fb7bbe5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\wwwroot\\images\\books\\d31de0aa-e93a-4122-ae68-a894811f66d1.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\d31de0aa-e93a-4122-ae68-a894811f66d1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\wwwroot\\images\\books\\e194f5d1-1914-4ab7-ba69-f2c24cd46e03.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\e194f5d1-1914-4ab7-ba69-f2c24cd46e03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\wwwroot\\images\\books\\e5089e94-d32f-43f0-9c85-25b5ecdfcd2e.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\e5089e94-d32f-43f0-9c85-25b5ecdfcd2e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\wwwroot\\images\\books\\e538ff43-dded-46c1-b7e9-f33cd2096314.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\e538ff43-dded-46c1-b7e9-f33cd2096314.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\wwwroot\\images\\books\\fcc69c01-79fd-45b8-82cc-d7011b5493bc.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\fcc69c01-79fd-45b8-82cc-d7011b5493bc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\wwwroot\\images\\f8c3ed72-1705-475b-8a7b-8f41f393174f.png",
+      "PackagePath": "staticwebassets\\images\\f8c3ed72-1705-475b-8a7b-8f41f393174f.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\BookShop (1)\\BookShop\\BookShop-master\\BooksShop\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.BooksShop.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.BooksShop.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.BooksShop.props",
+      "PackagePath": "build\\BooksShop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.BooksShop.props",
+      "PackagePath": "buildMultiTargeting\\BooksShop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.BooksShop.props",
+      "PackagePath": "buildTransitive\\BooksShop.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
