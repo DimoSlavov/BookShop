@@ -1,5 +1,3 @@
-<img width="647" alt="image" src="https://github.com/user-attachments/assets/0982f4ea-aa6d-47d9-ab53-cf61a3ea0434"># Books Shop
-
 **Books shop** project using ASP .Net Core MVC.
 
 ## :hammer_and_pick: Built With
