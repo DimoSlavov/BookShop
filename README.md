@@ -30,7 +30,7 @@ The **Administrator** can add new books, update or delete existing ones. He can 
 
 **Home Page**
 
-![HomePage](https://github.com/DimoSlavov/BookShop/tree/main/BookShop-master/BooksShop/wwwroot/images/homepage.png)
+![HomePage](BookShop-master/BooksShop/wwwroot/images/homepage.png)
 
 **Home Page - Top Sales**
 
