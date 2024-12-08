@@ -24,7 +24,7 @@ The **Administrator** can add new books, update or delete existing ones. He can 
 
 ## :cd: Database Diagram
 
-![Database_Diagram](https://github.com/DimoSlavov/BookShop/tree/main/BookShop-master/BooksShop/wwwroot/images/database.png)
+![Database_Diagram](BookShop-master/BooksShop/wwwroot/images/database.png)
 
 ## :camera_flash: Screenshots
 
@@ -34,21 +34,21 @@ The **Administrator** can add new books, update or delete existing ones. He can 
 
 **Home Page - Top Sales**
 
-![HomePage_TopSalesSection](https://github.com/DimoSlavov/BookShop/tree/main/BookShop-master/BooksShop/wwwroot/images/top-sales.png)
+![HomePage_TopSalesSection](BookShop-master/BooksShop/wwwroot/images/top-sales.png)
 
 **Books Advanced Search**
 
-![BookAdvancedSearch](https://github.com/DimoSlavov/BookShop/tree/main/BookShop-master/BooksShop/wwwroot/images/list.png)
+![BookAdvancedSearch](BookShop-master/BooksShop/wwwroot/images/list.png)
 
 **Logged-in User Shopping Cart**
 
-![Logged-inUserShoppingCart](https://github.com/DimoSlavov/BookShop/tree/main/BookShop-master/BooksShop/wwwroot/images/cart.png)
+![Logged-inUserShoppingCart](BookShop-master/BooksShop/wwwroot/images/cart.png)
 
 **Book Details**
 
-![BookDetails](https://github.com/DimoSlavov/BookShop/tree/main/BookShop-master/BooksShop/wwwroot/images/details.png)
+![BookDetails](BookShop-master/BooksShop/wwwroot/images/details.png)
 
 **User Orders**
 
-![Logged-inUserProfile](https://github.com/DimoSlavov/BookShop/tree/main/BookShop-master/BooksShop/wwwroot/images/orders.png)
+![Logged-inUserProfile](BookShop-master/BooksShop/wwwroot/images/orders.png)
 
