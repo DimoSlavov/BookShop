@@ -60,10 +60,6 @@ The **Administrator** can add new books, update or delete existing ones. He can 
 
 ![ContactForm](https://github.com/IvaSabotinova/BookShop/assets/96121572/fbb6f79b-d837-46e7-9640-62a15c7afe8b)
 
-**Admin Area - All Messages**
-
-![AdminArea_AllMessages](https://github.com/IvaSabotinova/BookShop/assets/96121572/e62c7abf-4ada-46af-8b9d-2e386d9b2d56)
-
 **Admin Area - All Books**
 
 ![AdminArea_AllBooks](https://github.com/IvaSabotinova/BookShop/assets/96121572/1a179c51-045f-444d-bdd4-6c7f8c5013a9)
