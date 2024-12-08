@@ -1,6 +1,4 @@
-# BookShop
- Online book shop
-
+<img width="647" alt="image" src="https://github.com/user-attachments/assets/0982f4ea-aa6d-47d9-ab53-cf61a3ea0434"># Books Shop
 
 **Books shop** project using ASP .Net Core MVC.
 
@@ -24,9 +22,33 @@ The **Administrator** can add new books, update or delete existing ones. He can 
 **Clients** can choose their favorite books and add them to their shopping cart, then make an order when they decide. Newest books and top sales are available on home page. Needed books can be easily found by advanced and combined search functionality - by author, title, price range, page range and book category.
 
 
+## :cd: Database Diagram
 
+![Database_Diagram](https://github.com/DimoSlavov/BookShop/tree/main/BookShop-master/BooksShop/wwwroot/images/database.png)
 
+## :camera_flash: Screenshots
 
+**Home Page**
 
+![HomePage](https://github.com/DimoSlavov/BookShop/tree/main/BookShop-master/BooksShop/wwwroot/images/homepage.png)
 
+**Home Page - Top Sales**
+
+![HomePage_TopSalesSection](https://github.com/DimoSlavov/BookShop/tree/main/BookShop-master/BooksShop/wwwroot/images/top-sales.png)
+
+**Books Advanced Search**
+
+![BookAdvancedSearch](https://github.com/DimoSlavov/BookShop/tree/main/BookShop-master/BooksShop/wwwroot/images/list.png)
+
+**Logged-in User Shopping Cart**
+
+![Logged-inUserShoppingCart](https://github.com/DimoSlavov/BookShop/tree/main/BookShop-master/BooksShop/wwwroot/images/cart.png)
+
+**Book Details**
+
+![BookDetails](https://github.com/DimoSlavov/BookShop/tree/main/BookShop-master/BooksShop/wwwroot/images/details.png)
+
+**User Orders**
+
+![Logged-inUserProfile](https://github.com/DimoSlavov/BookShop/tree/main/BookShop-master/BooksShop/wwwroot/images/orders.png)
 
