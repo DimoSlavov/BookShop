@@ -27,9 +27,9 @@
                 SecurityStamp = Guid.NewGuid().ToString(),
                 PhoneNumber = "+359889694030",
                 EmailConfirmed = true,
-                FirstName = "Iva",
-                LastName = "Sabotinova",
-                Address = "Izgrev block 41, Bourgas 8000, Bulgaria",
+                FirstName = "Dimo",
+                LastName = "Slavov",
+                Address = "car Simeon Veliki",
                 RegisteredOn = DateTime.Now,
             };
 
@@ -46,9 +46,9 @@
                 NormalizedEmail = "CLIENT@GMAIL.COM",
                 PhoneNumber = "+359877222222",
                 EmailConfirmed = true,
-                FirstName = "Pesho",
-                LastName = "Martinov",
-                Address = "Slaveykov block 33, Bourgas 8000, Bulgaria",
+                FirstName = "Ivan",
+                LastName = "ivanov",
+                Address = "Stara Zagora",
                 RegisteredOn = DateTime.Now,
             };
 
